@@ -59,6 +59,8 @@ The project consists of seven tables.
 - `tbl_book` → `tbl_book_loans`
 - `tbl_borrower` → `tbl_book_loans`
 
+  ![Schema][ScreenShots/Schema.png]
+
 ## 6. SQL Implementation and Business Requirements
 
 ### Requirement 1: Retrieve the number of copies of a specific book at a particular library branch.
